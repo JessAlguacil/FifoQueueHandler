@@ -56,3 +56,7 @@ VAR
         Input             : ARRAY[0..9] OF BOOL;
     END_STRUCT;
 END_VAR
+
+
+MyFifo(Config,Outputs); // Function block declared in the Main block
+
