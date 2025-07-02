@@ -8,6 +8,7 @@ Ideal for industrial automation projects where multiple request channels must be
 ## 🚀 Features
 
 - ✅ Designed for **FPWIN Pro 7 (Panasonic)**
+- ✅ Designed for **TIA PORTAL V16 OR Later (Siemens)**
 - 📦 Generic FIFO queue logic (supports motors, valves, stations, etc.)
 - 🌀 Circular input scan (1 channel processed per scan cycle)
 - ⚙️ Configurable:
