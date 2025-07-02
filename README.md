@@ -1,6 +1,6 @@
-# FIFO Queue Handler (Structured Text) for FPWIN Pro 7 (Panasonic)
+# FIFO Queue Handler (Structured Text)
 
-A reusable and optimized FIFO queue implementation written in **IEC 61131-3 Structured Text**, designed specifically for **FPWIN Pro 7 (Panasonic)**.  
+A reusable and optimized FIFO queue implementation written in **IEC 61131-3 Structured Text**, designed specifically for **FPWIN Pro 7 (Panasonic)** & **TIA PORTAL (Siemens)**.  
 Ideal for industrial automation projects where multiple request channels must be handled fairly, but only a limited number can be active at the same time.
 
 ---
