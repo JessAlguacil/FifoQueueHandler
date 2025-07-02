@@ -1,6 +1,6 @@
 # FIFO Queue Handler (Structured Text)
 
-A reusable and optimized FIFO queue implementation written in **IEC 61131-3 Structured Text**, designed specifically for **FPWIN Pro 7 (Panasonic)** & **TIA PORTAL (Siemens)** & **SYSMAC STUDIO (Omron)**.  
+A reusable and optimized FIFO queue implementation written in **IEC 61131-3 Structured Text**.  
 Ideal for industrial automation projects where multiple request channels must be handled fairly, but only a limited number can be active at the same time.
 
 ---
