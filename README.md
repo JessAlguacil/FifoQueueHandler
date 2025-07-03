@@ -50,7 +50,7 @@ VAR
     MyFifo      : FifoQueueHandler;
     Inputs      : ARRAY[0..9] OF BOOL;      // 10 input requests
     Outputs     : ARRAY[0..9] OF BOOL;
-    Config      : STRUCT
+    Config      : FifoStruct
         QueueLength       : INT := 10;
         MaxActiveRequests : INT := 3;
         Input             : ARRAY[0..9] OF BOOL;
